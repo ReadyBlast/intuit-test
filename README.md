@@ -1,3 +1,9 @@
+Test app for Intuit Lab
+
+Shows clock that will dinamically updated and Weather with API
+
+Also added React-Route-Dom and MUI packages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
